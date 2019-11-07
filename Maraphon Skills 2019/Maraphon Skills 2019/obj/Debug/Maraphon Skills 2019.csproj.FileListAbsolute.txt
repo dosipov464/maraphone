@@ -1,0 +1,12 @@
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\bin\Debug\Maraphon Skills 2019.exe.config
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\bin\Debug\Maraphon Skills 2019.exe
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\bin\Debug\Maraphon Skills 2019.pdb
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon Skills 2019.csprojResolveAssemblyReference.cache
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.Form1.resources
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.Properties.Resources.resources
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.sponsor.resources
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon Skills 2019.csproj.GenerateResource.Cache
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon Skills 2019.exe
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon Skills 2019.pdb
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.sponsor_confirm.resources
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.inform.resources
