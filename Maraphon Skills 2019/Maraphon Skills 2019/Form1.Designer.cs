@@ -76,6 +76,7 @@
             this.pictureBox2.Size = new System.Drawing.Size(653, 206);
             this.pictureBox2.TabIndex = 6;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // pictureBox3
             // 
@@ -109,6 +110,7 @@
             this.button1.TabIndex = 7;
             this.button1.Text = "Я хочу стать бегуном";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button5
             // 
@@ -121,6 +123,7 @@
             this.button5.TabIndex = 7;
             this.button5.Text = "Login";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button2
             // 

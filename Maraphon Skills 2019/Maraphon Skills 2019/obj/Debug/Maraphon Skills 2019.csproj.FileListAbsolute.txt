@@ -10,3 +10,10 @@ C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj
 C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon Skills 2019.pdb
 C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.sponsor_confirm.resources
 C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.inform.resources
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.org_list.resources
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.UserControl1.resources
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.Authoriz.resources
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.Wantobegun.resources
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.Runnermenu.resources
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.AdminMenu.resources
+C:\Users\user14\Desktop\Osipov 464\Maraphon Skills 2019\Maraphon Skills 2019\obj\Debug\Maraphon_Skills_2019.CoordMenu.resources

@@ -13,7 +13,7 @@ namespace Maraphon_Skills_2019
 {
     public partial class sponsor : Form
     {
-        DateTime voteTime = new DateTime(2019, 11, 24, 6, 0, 0);
+        DateTime voteTime = new DateTime(2020, 11, 24, 6, 0, 0);
         string mou;
         string years;
         public sponsor()

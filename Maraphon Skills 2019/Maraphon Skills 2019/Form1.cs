@@ -12,7 +12,7 @@ namespace Maraphon_Skills_2019
 {
     public partial class Form1 : Form
     {
-        DateTime voteTime = new DateTime(2019, 11, 24, 6, 0, 0);
+        DateTime voteTime = new DateTime(2020, 11, 24, 6, 0, 0);
         public Form1()
         {
             InitializeComponent();
@@ -55,6 +55,25 @@ namespace Maraphon_Skills_2019
             this.Hide();
             inform info = new inform();
             info.Show();
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Wantobegun wtb = new Wantobegun();
+            wtb.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Authoriz at = new Authoriz();
+            at.Show();
         }
     }
 }

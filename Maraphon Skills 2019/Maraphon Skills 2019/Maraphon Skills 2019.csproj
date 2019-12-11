@@ -44,6 +44,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminMenu.Designer.cs">
+      <DependentUpon>AdminMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authoriz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authoriz.Designer.cs">
+      <DependentUpon>Authoriz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoordMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoordMenu.Designer.cs">
+      <DependentUpon>CoordMenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,8 +84,20 @@
     <Compile Include="inform.Designer.cs">
       <DependentUpon>inform.cs</DependentUpon>
     </Compile>
+    <Compile Include="org_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="org_list.Designer.cs">
+      <DependentUpon>org_list.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Runnermenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Runnermenu.Designer.cs">
+      <DependentUpon>Runnermenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="sponsor.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,11 +110,35 @@
     <Compile Include="sponsor_confirm.Designer.cs">
       <DependentUpon>sponsor_confirm.cs</DependentUpon>
     </Compile>
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wantobegun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wantobegun.Designer.cs">
+      <DependentUpon>Wantobegun.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminMenu.resx">
+      <DependentUpon>AdminMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authoriz.resx">
+      <DependentUpon>Authoriz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoordMenu.resx">
+      <DependentUpon>CoordMenu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="inform.resx">
       <DependentUpon>inform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="org_list.resx">
+      <DependentUpon>org_list.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -95,11 +149,20 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Runnermenu.resx">
+      <DependentUpon>Runnermenu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="sponsor.resx">
       <DependentUpon>sponsor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="sponsor_confirm.resx">
       <DependentUpon>sponsor_confirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wantobegun.resx">
+      <DependentUpon>Wantobegun.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="g464_Osipov_KoryaginDataSet.xsc">
       <DependentUpon>g464_Osipov_KoryaginDataSet.xsd</DependentUpon>

@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace Maraphon_Skills_2019
 {
-    public partial class inform : Form
+    public partial class Wantobegun : Form
     {
-        DateTime voteTime = new DateTime(2020, 11, 24, 6, 0, 0);
-        public inform()
+        DateTime voteTime = new DateTime(2019, 11, 24, 6, 0, 0);
+        public Wantobegun()
         {
             InitializeComponent();
             timer1.Tick += timer1_Tick;
@@ -35,16 +35,21 @@ namespace Maraphon_Skills_2019
             main.Show();
         }
 
-        private void inform_Load(object sender, EventArgs e)
+        private void Wantobegun_FormClosing(object sender, FormClosingEventArgs e)
         {
-
+            Application.Exit();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void btn_uch_ranee_Click(object sender, EventArgs e)
         {
             this.Hide();
-            org_list orglist = new org_list();
-            orglist.Show();
+            Authoriz aut = new Authoriz();
+            aut.Show();
+        }
+
+        private void btn_uch_new_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
